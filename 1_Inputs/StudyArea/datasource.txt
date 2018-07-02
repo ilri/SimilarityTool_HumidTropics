@@ -1,0 +1,3 @@
+test_eth
+
+is the Humidtropics Action site in Ethiopia
