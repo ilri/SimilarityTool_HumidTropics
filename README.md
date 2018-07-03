@@ -12,3 +12,6 @@ This folder contains basic codes for the similarity tool from Humid Tropics prog
 This repostitory only contains the content of 0_code and 1-Inputs folders
 
 All other folders need to be created manually on the computer in order to run the tool. 
+
+
+data can be downloaded from here https://drive.google.com/open?id=13tGr5CUZWDMRG84d4JPe5ca1Jvc9OFuO 
