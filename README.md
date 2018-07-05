@@ -4,7 +4,7 @@ This folder contains basic codes for the similarity tool from Humid Tropics prog
 
 ## The tool requires 5 folders on the computer
 * 0_Code : contains all the code needed to run the similarity analysis (in the depository) 
-* 0_Covariate : contains all the readily available geo-data that can be selected as success factor
+* 0_Covariates : contains all the readily available geo-data that can be selected as success factor
 * 1_Inputs : contains all files that need user input, namely the set up code, the study area definition as well as the set of success factors, referred as variables in the tool, to select from (in this depository). 
 * 2_Workspace : folder used to store intermediary data
 * 3_ Output : folder where similarity maps are found after running the tool
